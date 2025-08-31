@@ -31,6 +31,7 @@ Expected Results:
 
 Conclusion :
 This project demonstrates the potential of Artificial Intelligence in climate risk management. By leveraging deep learning models such as LSTM and RNN, cyclone paths can be predicted more efficiently and accurately. With real-time integration, the system can serve as a vital tool for governments, disaster response teams, and society in minimizing the devastating impact of cyclones.
+
 References :
 1. NOAA Hurricane Database (HURDAT2)
 2. India Meteorological Department (IMD) Cyclone Data
