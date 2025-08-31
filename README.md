@@ -1,6 +1,8 @@
  Title: Cyclone-Path-Prediction-using-AI
+
  Problem Statement :
 Cyclones are highly unpredictable in terms of their paths and intensities. Current forecasting methods are often slow and sometimes inaccurate at local levels. There is a pressing need for a more efficient and intelligent system that can learn from historical patterns and provide faster, more accurate predictions to support disaster management efforts.
+
  Description :
  This project aims to predict the path of tropical cyclones using AI techniques.In Week 1, we focus on dataset exploration and understanding. The dataset contains historical cyclone track data (wind speed, pressure, latitude, longitude, etc.).
 Dataset Description:
@@ -18,7 +20,6 @@ The dataset includes historical cyclone track information:
 5. Evaluation: Use RMSE and other metrics to compare predictions with actual cyclone tracks.
 6. Visualization: Plot cyclone tracks on interactive maps using Folium or Plotly.
 7. Deployment (Optional): Develop a Flask/Streamlit web app for real-time predictions.
-
 Expected Results:
 1. Accurate cyclone path prediction compared to actual tracks.
 2. Prediction of cyclone intensity (wind speed, pressure).
