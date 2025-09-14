@@ -37,3 +37,33 @@ References :
 2. India Meteorological Department (IMD) Cyclone Data
 3. Kaggle Cyclone Track Datasets
 4. TensorFlow/Keras Documentation for LSTM Models
+Technical Stack
+
+1. Programming Languages:
+Python (primary language for data processing, modeling, and deployment)
+2. Data Handling & Analysis:
+Pandas (data manipulation)
+NumPy (numerical computations)
+GeoPandas (geospatial data handling)
+Matplotlib / Seaborn / Plotly (visualization)
+3. Machine Learning / Modeling:
+Scikit-learn (Random Forest, regression models, evaluation metrics)
+XGBoost / LightGBM (optional, advanced predictive models)
+TensorFlow / Keras (optional, if using deep learning models)
+4. Deployment & Web Interface:
+Streamlit (interactive web app for predictions)
+Folium / Plotly Maps (visualizing cyclone tracks on maps)
+5. Environment & Tools:
+Jupyter Notebook / VS Code (development environment)
+Git & GitHub (version control and collaboration)
+Conda / pip (package management)
+Results:
+The predictive model successfully analyzed historical cyclone data and generated estimated cyclone paths.
+Model performance metrics (e.g., accuracy, RMSE, or MAE) indicate the model can reasonably predict cyclone trajectories.
+Visualizations of predicted vs. actual cyclone tracks demonstrate the model’s effectiveness in capturing movement patterns.
+Interactive deployment via Streamlit allows real-time prediction and geographic visualization of potential cyclone paths.
+
+Conclusion
+The project demonstrates the feasibility of using machine learning for cyclone path prediction.
+Accurate forecasting can support early warning systems and disaster management planning.
+Integrating geospatial visualization enhances interpretability and decision-making
