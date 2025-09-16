@@ -1,0 +1,5 @@
+id,name,status,wind,pressure,lat,long
+1,GITA,TropicalStorm,60,990,15.2,145.3
+2,KATRINA,Hurricane,150,902,29.5,-89.6
+3,IRMA,Hurricane,180,914,23.1,-75.4
+4,PHAILIN,Hurricane,140,940,19.2,84.9
