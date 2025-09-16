@@ -63,7 +63,8 @@ Model performance metrics (e.g., accuracy, RMSE, or MAE) indicate the model can 
 Visualizations of predicted vs. actual cyclone tracks demonstrate the model’s effectiveness in capturing movement patterns.
 Interactive deployment via Streamlit allows real-time prediction and geographic visualization of potential cyclone paths.
 
-Conclusion
+Conclusion:
+
 The project demonstrates the feasibility of using machine learning for cyclone path prediction.
 Accurate forecasting can support early warning systems and disaster management planning.
 Integrating geospatial visualization enhances interpretability and decision-making
